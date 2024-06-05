@@ -35,7 +35,8 @@ header nav {
   height: 100vh;
 }
 section h2 {
-    font-size: 100px;
+    font-size: 50px;
+    font-weight: bold;
 }
 #adidas3 {
   background-color: yellow;

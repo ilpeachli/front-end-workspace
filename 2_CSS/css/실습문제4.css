@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(45deg, white, pink);
+  height: 100hv;
+}
+.container {
+  text-align: center;
+  width: 280px;
+  height: 280px;
+  border: 1px solid;
+  margin: 50% auto;
+}
+
+.square {
+  width: 40px;
+  height: 280px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+container1 {
+  height: 50vh;
+}
